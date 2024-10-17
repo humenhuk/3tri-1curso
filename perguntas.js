@@ -1,34 +1,34 @@
 criaCartao(
-    'Programação',
-    'O que é rato?',
-    'O Python é uma linguagem de programação'
+    'famoso',
+    'Qual doença o cantor Fred Mercury morreu?',
+    'AIDS'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'famoso',
+    'Quem e considerada a rainha do POP?',
+    'Madonna'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'famoso',
+    'Qual jogador brasileiro foi preso no Paraguai em 20 de Março de 2020?',
+    'Ronaldinho Gaucho'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'famoso',
+    'Qual a famosa mais rica do mundo?',
+    'Oprah'
 )
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'famoso',
+    'De qual famoso e a musica brasileira que esta no top 1 no spotify?',
+    'a gente faz amor de Gutavo de Lima'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'filme',
+    'Em qual filme da Marvel Thor enfrenta suaa irma hela?',
+    'Thor ragnarok'
 )
